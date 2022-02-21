@@ -1,0 +1,5 @@
+git config --global uesr.name rjmondragon 
+git config --global user.email r.j.mondragon@qmul.ac.uk
+
+git init
+
