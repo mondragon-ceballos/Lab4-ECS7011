@@ -3,3 +3,19 @@ git config --global user.email r.j.mondragon@qmul.ac.uk
 
 git init
 
+git status
+git add .
+git status
+
+git commit -m "first commit"
+
+git log
+
+In git hub create a new repository
+
+
+need a token for verification 
+https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/
+
+token used twice to enter the account
+
